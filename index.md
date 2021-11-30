@@ -35,7 +35,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 {% comment %}
 {% endcomment %}
 
-<h2><strong>Registration for this workshop opens on Friday, November 26 at 8:00am PST</strong></h2>
+<h2><strong>Registration for this workshop opens on Wednesday, December 1st at 8:00am PST</strong></h2>
 <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Bash%2FGit&iso=20211214T0930&p1=1050&ah=4">Check what time registration opens in your time
 zone</a>
 

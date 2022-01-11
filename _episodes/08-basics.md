@@ -58,6 +58,14 @@ metadata make up a [repository]({{ page.root }}{% link reference.md %}#repositor
 Repositories can be kept in sync across different computers, facilitating
 collaboration among different people.
 
+To build this workshop's website, we often have multiple people working on the site independantly. Here is a snapshot of the history of changes, or commits, which we have implemented on this website. You will notice multiple people are involved, and they each include a comment on what changes are being made.
+
+![A History of commits](../fig/commit_history.png)
+
+Taking a closer look at one of these commits, we can see what exactly has been edited. The line of content which has been changed is marked in red, and the new line of content is marked in green.
+
+![A History of commits](../fig/commit_ex.png)
+
 > ## The Long History of Version Control Systems
 >
 > Automated version control systems are nothing new.
